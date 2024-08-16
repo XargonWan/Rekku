@@ -6,6 +6,8 @@
 /home/jay/gits/Rekku/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
 /home/jay/gits/Rekku/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
 /home/jay/gits/Rekku/build/linux/x64/debug/bundle/data/flutter_assets/assets/rekku-genie.png
+/home/jay/gits/Rekku/build/linux/x64/debug/bundle/data/flutter_assets/assets/Unifontexmono-DYWdE.ttf
+/home/jay/gits/Rekku/build/linux/x64/debug/bundle/data/flutter_assets/assets/character.txt
 /home/jay/gits/Rekku/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
 /home/jay/gits/Rekku/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
 /home/jay/gits/Rekku/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json

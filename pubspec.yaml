@@ -92,5 +92,11 @@ flutter:
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
 
+  fonts:
+    - family: Unifontexmono
+      fonts:
+        - asset: assets/Unifontexmono-DYWdE.ttf
+
   assets:
     - assets/rekku-genie.png
+    - assets/character.txt
